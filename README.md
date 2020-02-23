@@ -1,4 +1,4 @@
-This is a short side project to determine the most similar quote to any input with NLP techniques.
+This is a small side project to determine the most similar quote to any input with NLP techniques.
 Such a function clearly has many potential applications, e.g. a speech writer gauging the originality of a particular phrase vs. its similarity to previously delivered rhetoric.  
 First ~25000 quotes were scraped from [brainyquote](https://www.brainyquote.com/) along with their labeled topics. 
 Due to the strong overlaps and similarity between topic names, I forgoed standard classification.
